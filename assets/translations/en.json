@@ -1,0 +1,8 @@
+{
+  "app_name": "Notes App",
+  "title_text": "Title",
+  "description_text": "Description",
+  "create_text": "Create note",
+  "update_text": "Update note",
+  "delete_text": "Note deleted"
+}
